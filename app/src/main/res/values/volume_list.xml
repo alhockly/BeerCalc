@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="container_array">
+        <item>1L (u need help)</item>
+        <item>750ml (Wine)</item>
+        <item>700ml (Bottle)</item>
+        <item>658ml (pint)</item>
+        <item>440ml (Big can)</item>
+        <item>330ml (small can)</item>
+
+    </string-array>
+
+</resources>
